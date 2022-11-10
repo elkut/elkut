@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Alkut Askar
-- 👀 I’m interested in Java, C++, C# and JavaScript
-- 🌱 I’m currently learning C++, Java, SQL
-- 📫 Please reach me through email: elkut.esker@gmail.com
+- 👋 Hi there
 
-<!---
-elkut/elkut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Alkut Askar, and I'm currently studying Computer Programming at Fanshawe College.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elkut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
