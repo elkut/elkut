@@ -10,7 +10,7 @@ Skills: C++ / Java / SQL / C# /JS / HTML / CSS
 - ⚡ Fun fact: I love coding!!!!!!!! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/alkut-askar-290594241)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]((https://www.linkedin.com/in/Alkut/))  
 
 
 
