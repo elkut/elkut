@@ -3,7 +3,7 @@
 I'm Alkut Askar, and I'm currently studying Computer Programming at Fanshawe College. I'm interestd in object-oriented development and database developmet.
 
 ## Skills
-- 💻 C++ / Java / SQL / C# /JS / HTML / CSS
+- 💻 C++ / Java / SQL / C# / JS / HTML / CSS
 
 
 ## 
