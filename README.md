@@ -1,4 +1,4 @@
-### Hi there 👋, Alkut Askar
+## Alkut Askar
 #### Computer programmer
 I'm Alkut Askar, and I'm currently studying Computer Programming at Fanshawe College. I'm interestd in object-oriented development and database developmet.
 
