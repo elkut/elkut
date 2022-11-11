@@ -5,6 +5,8 @@ I'm Alkut Askar, and I'm currently studying Computer Programming at Fanshawe Col
 ## Skills
 - 💻 C++ / Java / SQL / C# /JS / HTML / CSS
 
+
+
 - 🌱 I’m currently learning C++/ Advance Database/ Data Structure and Algorithm / Application Development 
 - 📫 How to reach me: elkut.eskae@gmail.com 
 - 😄 Pronouns: He/Him 
