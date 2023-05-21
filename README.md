@@ -1,13 +1,13 @@
 ## Alkut Askar
 #### Computer programmer
-I'm Alkut Askar, and I'm currently studying Computer Programming at Fanshawe College. I'm interestd in object-oriented development and database developmet.
+I'm Alkut Askar, and I'm currently studying Computer Programming at Fanshawe College. I'm interestd in .Net development, Front-end and Back-end developmet.
 
 ## Skills
-- 💻 C++ / Java / SQL / C# / JS / HTML / CSS
+- 💻 C++ / Java / SQL / C# / JS / HTML / CSS / .Net / COBOL
 
 
 ## 
-- 🌱 I’m currently learning C++/ Advance Database/ Data Structure and Algorithm / Application Development 
+- 🌱 I’m currently learning .Net / React / Data Structure and Algorithm / Application Development / Web development
 - 📫 How to reach me: elkut.eskae@gmail.com 
 - ⚡ Fun fact: I love coding!!!!!!!! 
 
