@@ -16,7 +16,6 @@ I'm open to collaborations and job opportunities. Feel free to reach out if you 
 
 ## 
 - 🌱 I have experience in .Net / React / Data Structure and Algorithm / Application Development / Web development
-- 📫 How to reach me: elkut.eskae@gmail.com 
 - ⚡ Fun fact: I love coding!!!!!!!! 
 
 ## 📫 How to Reach Me
