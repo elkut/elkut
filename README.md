@@ -15,8 +15,8 @@ I'm Alkut Askar, and I'm currently studying Computer Programming at Fanshawe Col
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='[https://randommeme-five.vercel.app/](https://img.randme.me/)' style="height: 400px;"/>
+### 😂 Random Meme
+<img src='https://img.randme.me/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elkut&icon=0&color=0)](https://visitcount.itsvg.in)
