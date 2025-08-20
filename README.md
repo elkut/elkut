@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Alkut Askar, and I'm currently studying Computer Programming at Fanshawe College. I'm interestd in .Net development, Front-end and Back-end developmet.<br>I'm open to collaborations and job opportunities. Feel free to reach out if you have an interesting project or an exciting role!
+I'm Alkut Askar, I'm open to collaborations and job opportunities. Feel free to reach out if you have an interesting project or an exciting role!
 
 
 ## 🌐 Socials:
