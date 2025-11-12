@@ -15,10 +15,5 @@ I'm Alkut Askar, I'm open to collaborations and job opportunities. Feel free to 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Meme
-<img src='https://img.randme.me/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=elkut&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
