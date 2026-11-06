@@ -22,12 +22,6 @@ I'm always happy to connect with fellow developers, exchange ideas, collaborate 
 
 Feel free to reach out if you'd like to share ideas, discuss technology, or collaborate on something interesting!
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elkut&show_icons=true&theme=gruvbox&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elkut&layout=compact&theme=gruvbox&hide_border=true)
-
 ---
 
 *Always learning. Always building. Always curious.* ☕
